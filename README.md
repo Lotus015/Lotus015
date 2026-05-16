@@ -74,8 +74,6 @@ baro     → baro.rs
 
 ---
 
-<div align="center">
-  <a href="https://jigjoy.ai">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=280&section=footer&text=JIGJOY&fontSize=90&fontColor=ffffff&animation=fadeIn&desc=we%20ship%20agents,%20not%20chatbots&descSize=18&descAlignY=68&fontAlignY=42" alt="JigJoy — we ship agents, not chatbots" />
-  </a>
-</div>
+<a href="https://jigjoy.ai">
+  <img src="https://raw.githubusercontent.com/Lotus015/Lotus015/main/assets/footer.svg" alt="JigJoy — Infrastructure and services for Gen AI teams" />
+</a>
