@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://github.com/Lotus015/baro">
+    <img src="https://raw.githubusercontent.com/Lotus015/Lotus015/main/assets/baro-pin.svg" alt="baro" />
+  </a>
+  <a href="https://github.com/jigjoy-ai/mozaik">
+    <img src="https://raw.githubusercontent.com/Lotus015/Lotus015/main/assets/mozaik-pin.svg" alt="jigjoy-ai/mozaik" />
+  </a>
+</p>
+
 ```bash
 lotus@github:~$ whoami
 Miodrag Todorović — co-founder @ JigJoy
