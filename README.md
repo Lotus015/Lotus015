@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Lotus015/baro">
+  <a href="https://github.com/jigjoy-ai/baro">
     <img src="https://raw.githubusercontent.com/Lotus015/Lotus015/main/assets/baro-pin.svg" alt="baro" />
   </a>
   <a href="https://github.com/jigjoy-ai/mozaik">
@@ -38,7 +38,7 @@ drwxr-xr-x  mozaik    TS runtime · reactive agents on a shared event bus
 
 [![npm](https://img.shields.io/npm/v/baro-ai?style=flat-square&label=npm&color=6366F1&logo=npm&logoColor=white)](https://www.npmjs.com/package/baro-ai)
 [![downloads](https://img.shields.io/npm/dt/baro-ai?style=flat-square&label=downloads&color=8B5CF6&logo=npm&logoColor=white)](https://www.npmjs.com/package/baro-ai)
-[![stars](https://img.shields.io/github/stars/Lotus015/baro?style=flat-square&label=stars&color=EC4899&logo=github&logoColor=white)](https://github.com/Lotus015/baro)
+[![stars](https://img.shields.io/github/stars/jigjoy-ai/baro?style=flat-square&label=stars&color=EC4899&logo=github&logoColor=white)](https://github.com/jigjoy-ai/baro)
 
 ```bash
 $ npm install -g baro-ai
