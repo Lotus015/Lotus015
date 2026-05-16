@@ -84,5 +84,5 @@ baro     → baro.rs
 ---
 
 <a href="https://jigjoy.ai">
-  <img src="https://raw.githubusercontent.com/Lotus015/Lotus015/main/assets/footer.svg" alt="JigJoy — Infrastructure and services for Gen AI teams" />
+  <img src="https://raw.githubusercontent.com/Lotus015/Lotus015/main/assets/jigjoy-footer.svg" alt="JigJoy — Infrastructure and services for Gen AI teams" />
 </a>
