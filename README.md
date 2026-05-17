@@ -46,7 +46,7 @@ $ baro "Add JWT auth with role-based access control"
 ```
 
 <!-- BARO_VERSION:START -->
-Currently shipping **v0.26.0**
+Currently shipping **v0.38.0**
 <!-- BARO_VERSION:END -->
 
 #### → mozaik &nbsp;·&nbsp; [github.com/jigjoy-ai/mozaik](https://github.com/jigjoy-ai/mozaik)
@@ -78,7 +78,7 @@ baro     → baro.rs
 ```
 
 <!-- BLOG:START -->
-**Latest essay** → [Build Your Own CLI Agent: A Step-by-Step Guide](https://jigjoy.ai/blog/build-your-own-cli-agent/)
+**Latest essay** → [Benchmarking Claude (via Claude Code) and GPT-5.5 (via Mozaik) in the same parallel-agent run](https://jigjoy.ai/blog/claude-vs-gpt-in-baro/)
 <!-- BLOG:END -->
 
 ---
