@@ -83,6 +83,14 @@ baro     → baro.rs
 
 ---
 
+### Reading
+
+<p align="center">
+  <a href="https://app.daily.dev/lotus015"><img src="https://api.daily.dev/devcards/v2/W14MjE0CH8n4XelLsi6AA.png?type=wide&r=xzi" width="652" alt="Miodrag Todorovic's Dev Card"/></a>
+</p>
+
+---
+
 <a href="https://jigjoy.ai">
   <img src="https://raw.githubusercontent.com/Lotus015/Lotus015/main/assets/jigjoy-footer.svg" alt="JigJoy — Infrastructure and services for Gen AI teams" />
 </a>
