@@ -46,7 +46,7 @@ $ baro "Add JWT auth with role-based access control"
 ```
 
 <!-- BARO_VERSION:START -->
-Currently shipping **v0.38.2**
+Currently shipping **v0.39.1**
 <!-- BARO_VERSION:END -->
 
 #### → mozaik &nbsp;·&nbsp; [github.com/jigjoy-ai/mozaik](https://github.com/jigjoy-ai/mozaik)
@@ -78,7 +78,7 @@ baro     → baro.rs
 ```
 
 <!-- BLOG:START -->
-**Latest essay** → [Benchmarking Claude (via Claude Code) and GPT-5.5 (via Mozaik) in the same parallel-agent run](https://jigjoy.ai/blog/claude-vs-gpt-in-baro/)
+**Latest essay** → [How baro generated 808 NestJS Jest tests autonomously in 71 minutes](https://jigjoy.ai/blog/baro-808-nestjs-jest-tests/)
 <!-- BLOG:END -->
 
 ---
