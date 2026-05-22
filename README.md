@@ -78,7 +78,7 @@ baro     → baro.rs
 ```
 
 <!-- BLOG:START -->
-**Latest essay** → [How baro generated 808 NestJS Jest tests autonomously in 71 minutes](https://jigjoy.ai/blog/baro-808-nestjs-jest-tests/)
+**Latest essay** → [Multi-agent AI debugging is broken. We built a replay system to fix it.](https://jigjoy.ai/blog/multi-agent-ai-replay-system/)
 <!-- BLOG:END -->
 
 ---
