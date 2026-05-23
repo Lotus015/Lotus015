@@ -46,7 +46,7 @@ $ baro "Add JWT auth with role-based access control"
 ```
 
 <!-- BARO_VERSION:START -->
-Currently shipping **v0.41.0**
+Currently shipping **v0.44.0**
 <!-- BARO_VERSION:END -->
 
 #### → mozaik &nbsp;·&nbsp; [github.com/jigjoy-ai/mozaik](https://github.com/jigjoy-ai/mozaik)
@@ -78,7 +78,7 @@ baro     → baro.rs
 ```
 
 <!-- BLOG:START -->
-**Latest essay** → [Multi-agent AI debugging is broken. We built a replay system to fix it.](https://jigjoy.ai/blog/multi-agent-ai-replay-system/)
+**Latest essay** → [Streaming Is Not a UI Feature Anymore](https://jigjoy.ai/blog/streaming-is-not-a-ui-feature-anymore/)
 <!-- BLOG:END -->
 
 ---
