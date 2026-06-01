@@ -78,7 +78,7 @@ baro     → baro.rs
 ```
 
 <!-- BLOG:START -->
-**Latest essay** → [I tested Claude Code vs OpenAI Codex in my parallel agent setup. Then I built a hybrid.](https://jigjoy.ai/blog/claude-code-vs-codex-baro/)
+**Latest essay** → [The Economics of Parallel Coding Agents](https://jigjoy.ai/blog/economics-of-parallel-coding-agents/)
 <!-- BLOG:END -->
 
 ---
