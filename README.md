@@ -78,7 +78,7 @@ baro     → baro.rs
 ```
 
 <!-- BLOG:START -->
-**Latest essay** → [The Economics of Parallel Coding Agents](https://jigjoy.ai/blog/economics-of-parallel-coding-agents/)
+**Latest essay** → [How Three Contributors Shipped Mozaik v3.11 to v3.13 in Two Weeks](https://jigjoy.ai/blog/how-three-contributors-shipped-mozaik-v3-13-in-two-weeks/)
 <!-- BLOG:END -->
 
 ---
