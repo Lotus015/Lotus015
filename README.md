@@ -78,7 +78,7 @@ baro     → baro.rs
 ```
 
 <!-- BLOG:START -->
-**Latest essay** → [How Three Contributors Shipped Mozaik v3.11 to v3.13 in Two Weeks](https://jigjoy.ai/blog/how-three-contributors-shipped-mozaik-v3-13-in-two-weeks/)
+**Latest essay** → [Move From Autonomous Agents to Autonomous Teams](https://jigjoy.ai/blog/move-from-autonomous-agents-to-autonomous-teams/)
 <!-- BLOG:END -->
 
 ---
