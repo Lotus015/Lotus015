@@ -46,7 +46,7 @@ $ baro "Add JWT auth with role-based access control"
 ```
 
 <!-- BARO_VERSION:START -->
-Currently shipping **v0.56.4**
+Currently shipping **v0.56.5**
 <!-- BARO_VERSION:END -->
 
 #### → mozaik &nbsp;·&nbsp; [github.com/jigjoy-ai/mozaik](https://github.com/jigjoy-ai/mozaik)
@@ -78,7 +78,7 @@ baro     → baro.rs
 ```
 
 <!-- BLOG:START -->
-**Latest essay** → [How Radical Technologies Create New Markets](https://jigjoy.ai/blog/how-radical-technologies-create-new-markets/)
+**Latest essay** → [I Stopped Babysitting AI Coding Agents. I Gave Them a Cloud and a Goal Instead.](https://jigjoy.ai/blog/i-stopped-babysitting-ai-coding-agents/)
 <!-- BLOG:END -->
 
 ---
