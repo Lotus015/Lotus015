@@ -46,7 +46,7 @@ $ baro "Add JWT auth with role-based access control"
 ```
 
 <!-- BARO_VERSION:START -->
-Currently shipping **v0.72.0**
+Currently shipping **v0.73.1**
 <!-- BARO_VERSION:END -->
 
 #### → mozaik &nbsp;·&nbsp; [github.com/jigjoy-ai/mozaik](https://github.com/jigjoy-ai/mozaik)
@@ -78,7 +78,7 @@ baro     → baro.rs
 ```
 
 <!-- BLOG:START -->
-**Latest essay** → [Not Every Task Deserves Parallel Agents](https://jigjoy.ai/blog/not-every-task-deserves-parallel-agents/)
+**Latest essay** → [From Fixed Agent Workflows to Intelligent Communication](https://jigjoy.ai/blog/from-fixed-agent-workflows-to-intelligent-communication/)
 <!-- BLOG:END -->
 
 ---
