@@ -46,7 +46,7 @@ $ baro "Add JWT auth with role-based access control"
 ```
 
 <!-- BARO_VERSION:START -->
-Currently shipping **v0.74.6**
+Currently shipping **v0.74.7**
 <!-- BARO_VERSION:END -->
 
 #### → mozaik &nbsp;·&nbsp; [github.com/jigjoy-ai/mozaik](https://github.com/jigjoy-ai/mozaik)
