@@ -1,1 +1,3 @@
-[Baro](https://github.com/jigjoy-ai/baro) · [Mozaik](https://github.com/jigjoy-ai/mozaik) · [daily.dev](https://app.daily.dev/lotus015)
+- [baro](https://github.com/jigjoy-ai/baro) is a CLI for running parallel coding agents as a coordinated team, from task to pull request.
+- [Mozaik](https://github.com/jigjoy-ai/mozaik) is a TypeScript runtime for building reactive AI agents that communicate over a shared event bus.
+- On [daily.dev](https://app.daily.dev/lotus015), I keep up with and write articles about AI agents, developer tooling, and software engineering.
